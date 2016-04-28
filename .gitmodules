@@ -1,0 +1,6 @@
+[submodule "jquery.hotkeys"]
+	path = jquery.hotkeys
+	url = https://github.com/tzuryby/jquery.hotkeys
+[submodule "lunr.js"]
+	path = lunr.js
+	url = https://github.com/olivernn/lunr.js
